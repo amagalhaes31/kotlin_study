@@ -1,5 +1,5 @@
 # Kotlin Study
-This repository has objective of contain studies about Kotlin language.
+This repository aims to contain studies about Kotlin language.
 
 <img src="https://github.com/amagalhaes31/kotlin_study/blob/master/.github/IntelliJ.png" width = 1024px>
 
